@@ -1,7 +1,7 @@
 import ollama from "ollama";
 
 async function run() {
-  const prompt = "Benefits of AI IN Healthcare?";
+  const prompt = "Benefits of using AI in Healthcare";
   const message = { role: "user", content: prompt };
   const response = await ollama.chat({
     model: "llama3",

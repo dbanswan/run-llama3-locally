@@ -10,11 +10,11 @@ From [Meta AI](https://ai.meta.com/blog/meta-llama-3/):
 
 **In this repositry we will running llama3 locally on a Macbook Air M1 Base Model**. So no GPU's here, we will be doing everything on a CPU. Also it doesn't matter if on a mac or windows or linux the steps are the same. The performance might vary depending on your system specs though.
 
-With the help of our good friends over at [Ollama]("https://ollama.com/"), this will be a breeze.
+With the help of our good friends over at [Ollama](https://ollama.com/), this will be a breeze.
 
 ## Prerequisites
 
-1. Download [Ollama]("https://ollama.com/")
+1. Download [Ollama](https://ollama.com/)
 2. Run `ollama run llama3` in the terminal/cmd. This will be the 8b model.
 3. Clone this repo
 4. Run `npm install`
