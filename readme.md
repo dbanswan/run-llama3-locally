@@ -2,7 +2,7 @@
 
 [llama3](https://ai.meta.com/blog/meta-llama-3/) is the new latest and greatest Open Source LLM from Meta AI. Being trained on trillions of token data, it is one of the most powerful LLM available as of now.
 
-[<img src="https://scontent.fdel27-4.fna.fbcdn.net/v/t39.2365-6/438037375_405784438908376_6082258861354187544_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e280be&_nc_ohc=S2OBaAtIufwAb44YX_9&_nc_ht=scontent.fdel27-4.fna&oh=00_AfA3qMvGUzeLnXwsM2cfVGHIVDfroExbynWnr_hp9efqPg&oe=663C830A">](https://scontent.fdel27-4.fna.fbcdn.net/v/t39.2365-6/438037375_405784438908376_6082258861354187544_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e280be&_nc_ohc=S2OBaAtIufwAb44YX_9&_nc_ht=scontent.fdel27-4.fna&oh=00_AfA3qMvGUzeLnXwsM2cfVGHIVDfroExbynWnr_hp9efqPg&oe=663C830A)
+[<img src="https://raw.githubusercontent.com/dbanswan/run-llama3-locally/main/llama3.png">](https://raw.githubusercontent.com/dbanswan/run-llama3-locally/main/llama3.png)
 
 From [Meta AI](https://ai.meta.com/blog/meta-llama-3/):
 
